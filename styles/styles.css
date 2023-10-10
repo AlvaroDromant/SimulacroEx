@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div{
+    font-style: italic;
+    margin: auto;
+    padding: auto;
+}
+
+
+button{
+    background-color: rgb(39, 123, 191);
+    color: white;
+    margin: auto;
+    padding: auto;
+    height: 50px;
+    width: 200px;
+    border: none;
+}
